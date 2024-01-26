@@ -1,5 +1,7 @@
 <h1> RADAR PROJECT </h1>
 
+"radar flight project"
+
 - react-leaflet,
 - react-redux,
 - @reduxjs/toolkit,
@@ -21,7 +23,6 @@
 - `MapView.jsx` harita (react leaflet) kurulumu yap,
 - toolkit ile redux kurulumu yap,
 - uygulama ekrana gelince türkiye için uçuş verilerini al, store'a aktar,
-- 
 
 <h2> Used technologies </h2>
 
@@ -29,4 +30,4 @@ toolkitTHUNK - REACT
 
 <h2> Screen Gif </h2>
 
-![](ekran.gif)# radar-toolkitThunk-react
+![](ekran.gif)
