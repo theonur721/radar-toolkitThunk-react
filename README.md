@@ -1,6 +1,6 @@
-<h1> RADAR PROJECT </h1>
+<h1> RADAR FLIGHT PROJECT </h1>
 
-"radar flight project"
+"create radar flight project"
 
 - react-leaflet,
 - react-redux,
