@@ -25,7 +25,7 @@
 - toolkit ile redux kurulumu yap,
 - uygulama ekrana gelince türkiye için uçuş verilerini al, store'a aktar
 
-<h2> Used technologies </h2>
+<h2> Kullanılan Teknolojiler </h2>
 
 toolkitTHUNK - REACT
 
